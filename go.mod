@@ -1,4 +1,4 @@
-module github.com/inconshreveable/log15/v3
+module github.com/usrpro/log15/v3
 
 go 1.9
 

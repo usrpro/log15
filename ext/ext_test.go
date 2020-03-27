@@ -5,7 +5,7 @@ import (
 	"math"
 	"testing"
 
-	log "github.com/inconshreveable/log15/v3"
+	log "github.com/usrpro/log15/v3"
 )
 
 func testHandler() (log.Handler, *log.Record) {
