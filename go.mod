@@ -1,6 +1,6 @@
-module github.com/usrpro/log15
+module github.com/usrpro/log15/v3
 
-go 1.11
+go 1.9
 
 require (
 	github.com/go-stack/stack v1.8.0
